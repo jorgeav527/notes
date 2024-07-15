@@ -35,5 +35,20 @@ This will be the instructions to install [lazyvim](https://www.lazyvim.org/) on 
 		- `sudo desktop-file-install extra/linux/Alacritty.desktop`
 		- `sudo update-desktop-database`
 		- *if you want to [configure your alacritty](https://alacritty.org/config-alacritty.html) terminal you have to create a alacritty.toml file in `$HOME/.config/alacritty/alacritty.toml`*
+    - This is the configuration I'm using:
+    ```toml
+    [window]
+    startup_mode = "Maximized"  # Default: "Windowed"
+
+    [font]
+    normal = { family = "Hack Nerd Font Mono", style = "Regular" }  # Default for Linux/BSD: "monospace", Regular
+    bold = { family = "Hack Nerd Font Mono", style = "Bold" }  # Inherits family from normal, Default style: Bold
+    italic = { family = "Hack Nerd Font Mono", style = "Italic" }  # Inherits family from normal, Default style: Italic
+    bold_italic = { family = "Hack Nerd Font Mono", style = "Bold Italic" }  # Inherits family from normal, Default style: Bold Italic
+    size = 12.25  # Default: 11.25
+
+    [cursor]
+    style = { shape = "Block", blinking = "On" }  # Default: shape = "Block", blinking = "Off"
+    ```
 	- Clone the starter `git clone https://github.com/LazyVim/starter ~/.config/nvim`
 	- and after just run `nvim`

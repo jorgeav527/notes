@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installing Languages.md",
+                "file": "Installing Debian 12.md",
                 "mode": "source",
                 "source": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installing Languages.md",
+                "file": "Installing Debian 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installing Languages.md",
+                "file": "Installing Debian 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installing Languages.md"
+                "file": "Installing Debian 12.md"
               }
             }
           }
@@ -190,8 +190,8 @@
   },
   "active": "35e31738c1ff1685",
   "lastOpenFiles": [
-    "Welcome to Lazyvim.md",
     "Installing Languages.md",
+    "Welcome to Lazyvim.md",
     "Installing Debian 12.md"
   ]
 }

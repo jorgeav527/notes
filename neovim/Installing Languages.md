@@ -4,3 +4,5 @@
 3. Export path `echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.zshrc` ***This directory contains the Go programming language binaries (e.g., `go`, `godoc`, `gofmt`) after you install the Go language itself from a tarball or package***
 4. Add the following line at the end of the file `echo 'export PATH=$PATH:~/go/bin' >> ~/.zshrc` ***When you install Go packages using `go install`, the binaries are typically placed in this directory if the `GOPATH` environment variable is set to the default (i.e., `~/go`).***
 5. Source the file `source $HOME/.profile` or `source ~/.zshrc`
+## Installing Rust
+1. Just run in the terminal this command `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
