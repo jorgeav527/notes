@@ -52,3 +52,9 @@ This will be the instructions to install [lazyvim](https://www.lazyvim.org/) on 
     ```
 	- Clone the starter `git clone https://github.com/LazyVim/starter ~/.config/nvim`
 	- and after just run `nvim`
+8. After installation
+  - first when running lazyvim is going to detect the dependencies that are missing, one of them is `clipboard`
+    ```bash
+    sudo apt update && sudo apt install xclip # xclip is the most common package well supported
+    ```
+```
