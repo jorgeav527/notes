@@ -4,19 +4,18 @@
 - [[Overview]] - General overview of the home, goals, and key sections.
   
 ## 📊 Projects
-- [[Current Projects]] - List of ongoing projects (e.g., renovation, landscaping).
-- [[Future Projects]] - Planned projects or ideas for future improvements.
+- [[projects/welcome|list]] - List of ongoing projects (e.g., renovation, landscaping).
 - [[App Spain DevOps]] - Planning the DevOps for a java spring-boot application.
+
+## 🗂️ Notes
+- [[neovim/welcome|NeoVim]] - Configuration and notes for neovim for debian 12.
+- [[AWS Cloud Practitioner]] - Study notes on how to become a cloud professional for AWS.
 
 ## 🛠️ Tasks
 - [[Daily Tasks]] - Chores, maintenance, or daily to-dos.
 - [[Weekly Tasks]] - Tasks to complete on a weekly basis.
 - [[Long-term Tasks]] - Larger, long-term goals for home management.
 
-## 🗂️ Notes
-- [[Home Maintenance]] - Notes on home repairs, schedules, or improvements.
-- [[Shopping Lists]] - Regular shopping lists or home improvement needs.
-  
 ## 📅 Calendar
 - [[Important Dates]] - Maintenance schedules, inspections, or due dates for home-related tasks.
 
