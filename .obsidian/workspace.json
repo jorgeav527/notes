@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,10 +165,11 @@
   },
   "active": "582106b810e7951e",
   "lastOpenFiles": [
-    "AWS Cloud/QA.md",
+    "main/App Spain DevOps.md",
     "main/AWS Cloud Practitioner.md",
     "main/Welcome to the Main.md",
-    "main/App Spain DevOps.md",
+    "main/Algorithms.md",
+    "AWS Cloud/QA.md",
     "neovim/welcome.md",
     "projects/welcome.md",
     "neovim/installing_languages_debian.md",
